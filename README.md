@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+**▶ Live demo: [getcutout.netlify.app](https://getcutout.netlify.app)**
+
 **Free background removal that runs 100% in your browser.** Drop in a photo — or a
 batch of fifty product shots — and get a full-resolution cut-out back. No uploads,
 no watermark, no credits, no account. Your photos never leave your device.
